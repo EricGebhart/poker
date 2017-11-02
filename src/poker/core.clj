@@ -197,7 +197,7 @@
                    (straight hand))]
     (when straight
       (merge straight
-             {:score :straight-flush :cards hand}))))
+             {:score :straightflush :cards hand}))))
 
 (defn assign-rank-value [final-score-record]
   (let [score (:score final-score-record)

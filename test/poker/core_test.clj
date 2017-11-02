@@ -343,7 +343,7 @@
          fullhouse           :fullhouse
          fullhouse-q-hi      :fullhouse
          straight-ace-low    :straight
-         straight-flush-hand :straight-flush
+         straight-flush-hand :straightflush
          flush-hand          :flush
          four-of-kind-hand   :fourkind
          three-of-kind-hand  :threekind
